@@ -12,8 +12,7 @@ This repository contains the MATLAB code and analysis conducted for the **EECE 3
 3. [Files and Structure](#files-and-structure)  
 4. [Methodology](#methodology)  
 5. [Results](#results)  
-6. [Usage Instructions](#usage-instructions)  
-7. [Acknowledgments](#acknowledgments)
+6. [Acknowledgments](#acknowledgments)
 
 ---
 
